@@ -41,26 +41,26 @@ Make sure you have Python and Git installed.
 1. Clone the Repository
 
 Run the following command to clone the repository:
--- 
+---
 git clone https://github.com/vladduucckk/restapi-books
---
+---
 
 2. Create and Activate a Virtual Environment
---
+---
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
---
+---
 3. Install Dependencies
 
 Install the required dependencies from the requirements.txt file:
---
+---
 pip install -r requirements.txt
---
+---
 4. Run Migrations(if necessary)
---
+---
 python manage.py makemigrations
 python manage.py migrate
---
+---
 API Documentation
 
 •	The API documentation is available at /docs/ 
