@@ -72,3 +72,7 @@ Run tests to ensure the API works as expected:
 python manage.py test
 --
 
+
+**Link to video guid:**
+[video guid](https://www.youtube.com/watch?v=UBh6as1NvF4)
+
